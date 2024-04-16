@@ -5,6 +5,7 @@ public class EjemploGitRemoto {
 		// TODO Auto-generated method stub
 		System.out.println("4-3="+resta(4,3));
 		System.out.println("4+3="+suma(4,3));
+		System.out.println("4*3="+multiplica(4,3));
 
 	}
 	
@@ -14,6 +15,10 @@ public class EjemploGitRemoto {
 	
 	static int suma(int a, int b) {
 		return a + b;		
+	}
+	
+	static int multiplica (int a, int b) {
+		return a * b;		
 	}
 
 }
