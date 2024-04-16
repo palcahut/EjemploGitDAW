@@ -6,7 +6,7 @@ public class EjemploGitRemoto {
 		System.out.println("4-3="+resta(4,3));
 		System.out.println("4+3="+suma(4,3));
 		System.out.println("4*3="+multiplica(4,3));
-
+		System.out.println(minombrepalcahuticloud());
 	}
 	
 	static int resta (int a, int b) {
@@ -19,6 +19,10 @@ public class EjemploGitRemoto {
 	
 	static int multiplica (int a, int b) {
 		return a * b;		
+	}
+	
+	static String minombrepalcahuticloud() {
+		return "Soy Pedro Alcahut en icloud";
 	}
 
 }
