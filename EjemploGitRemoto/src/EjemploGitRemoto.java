@@ -21,6 +21,7 @@ public class EjemploGitRemoto {
 		return a * b;		
 	}
 	
+<<<<<<< HEAD
 	static String minombrepalcahuticloud() {
 		return "Soy Pedro Alcahut en icloud";
 	}
@@ -29,4 +30,10 @@ public class EjemploGitRemoto {
 		return "Cambio en la rama de Pedro";
 	}
 
+=======
+	static String nombraJavi () {
+		return "Espero que no dé fallo";
+	}
+>>>>>>> refs/remotes/origin/javier
 }
+
