@@ -21,8 +21,15 @@ public class EjemploGitRemoto {
 		return a * b;		
 	}
 	
+
 	static String minombrepalcahuticloud() {
 		return "Soy Pedro Alcahut en icloud";
 	}
 
+
+	static String nombraJavi () {
+		return "Espero que no dé fallo";
+	}
+
 }
+
