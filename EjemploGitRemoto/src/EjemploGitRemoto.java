@@ -31,5 +31,10 @@ public class EjemploGitRemoto {
 		return "Espero que no dé fallo";
 	}
 
+
+	static String elDeCarlos() {
+		return "Hola me llamo Carlos";
+	}
+
 }
 
