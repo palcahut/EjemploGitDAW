@@ -35,13 +35,10 @@ public class EjemploGitRemoto {
 		return "Espero que no dé fallo";
 	}
 
-<<<<<<< HEAD
-=======
 
 	static String elDeCarlos() {
 		return "Hola me llamo Carlos";
 	}
 
->>>>>>> branch 'master' of https://github.com/palcahut/EjemploGitDAW.git
 }
 
