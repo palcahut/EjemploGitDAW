@@ -20,5 +20,9 @@ public class EjemploGitRemoto {
 	static int multiplica (int a, int b) {
 		return a * b;		
 	}
-
+	
+	static String nombraJavi () {
+		return "Espero que no dé fallo";
+	}
 }
+
