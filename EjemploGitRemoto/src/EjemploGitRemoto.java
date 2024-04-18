@@ -25,4 +25,7 @@ public class EjemploGitRemoto {
 		return "Soy Pedro Alcahut en icloud";
 	}
 
+	static String elDeCarlos() {
+		return "Hola me llamo Carlos";
+	}
 }
